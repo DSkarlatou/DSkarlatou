@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DSkarlatou
-- 👀 I’m interested in software development and game development
+- 👀 I’m interested in software development, game development and AI Engineering
 
 <!---
 DSkarlatou/DSkarlatou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
